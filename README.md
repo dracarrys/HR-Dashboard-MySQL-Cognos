@@ -3,14 +3,12 @@ HR-Dashboard-MySQL-Cognos
 
 ![readme](https://github.com/dracarrys/HR-Dashboard-MySQL-Cognos/assets/100908058/226ed04c-d2e5-4275-a2dc-43255363e734)
 
-Data Used
-Data - HR Data with over 22000 rows from the year 2000 to 2020.
+#Data Used
+### Data - HR Data with over 22000 rows from the year 2000 to 2020.
+### Data Cleaning & Analysis - MySQL Workbench
+### Data Visualization - PowerBI
 
-Data Cleaning & Analysis - MySQL Workbench
-
-Data Visualization - PowerBI
-
-Questions
+## Questions
 1. What is the gender breakdown of employees in the company?
 2. What is the race/ethnicity breakdown of employees in the company?
 3. What is the age distribution of employees in the company?
